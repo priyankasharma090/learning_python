@@ -6,5 +6,10 @@ input
 
 
 function
+new-feature@isupper
+#new feature
+isupper
+
+
 
 finally done
