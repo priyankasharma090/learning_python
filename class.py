@@ -9,4 +9,6 @@ class area():
     
     
     a1=area()
+    area.defrectarea(a1)
     a2=areaq()
+    area.display(a2)
