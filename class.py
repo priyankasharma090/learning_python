@@ -12,3 +12,7 @@ class area():
     area.defrectarea(a1)
     a2=areaq()
     area.display(a2)
+    
+    edit by rohit@coder
+    -----
+    -------@bakwas
