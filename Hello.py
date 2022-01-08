@@ -6,3 +6,5 @@ input
 
 
 function
+#new feature
+isupper
