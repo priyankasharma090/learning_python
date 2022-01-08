@@ -6,9 +6,10 @@ input
 
 
 function
+new-feature@isupper
 #new feature
 isupper
 
 
 
-end list
+finally done
